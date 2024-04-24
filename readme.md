@@ -1,16 +1,14 @@
 <img align="right" width="30%" src="Assets/Programming.gif">
 
-# Hi👋, I'm [Ranit Manik](https://akshatt25.github.io/Portfolio-1.0/)
+# Hi👋, I'm Akshat Gupta
 
 <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝒂𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
 
-- 🏫 Currently pursuing a Bachelor's degree in Computer Science at [CEMK](https://cemkolaghat.in/).
-- 💻 Open Source Contributor with a focus on [GitHub](https://github.com/akshatt25).
-- 📚 Proficient in HTML, CSS, JavaScript, Python, Java, C, and Figma.
-- 🌐 Visit my [Portfolio](https://github.com/akshatt25/Portfolio-1.0) to explore my projects and achievements.
-- 📝 Writing technical blogs on [Hashnode](https://hashnode.com/@akshatt25).
-- 📧 Reach me via [Email](mailto:akshatt25.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
-- 📍 Currently based in Mecheda, West Bengal, India.
+- 🏫 Pursuing Bachelor's degree in Computer Science at [LNCT]([https://cemkolaghat.in/](https://lnct.ac.in/)).
+- 📚 Proficient in Java, Flutter, JavaScript, Node & Express.js, MongoDB & SQL.
+- My Recent Work - [The Notary App](https://play.google.com/store/apps/details?id=com.consumer.thenotaryapp&hl=en&gl=US)
+- 📧 Reach me via [Email](mailto:akshatt25g@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akshatt25/).
+
 
 <hr>
 
