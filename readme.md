@@ -11,7 +11,20 @@
  <div style="display: flex; justify-content: flex-end; padding: 8px;">
         <img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25" />
     </div>
+
+    <!-- Container with link -->
+<div style="display: flex; align-items: center;">
+    <!-- Anchor element with a link to the specified URL -->
+    <a href="https://gitlab.com" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center;">
+        <!-- Text "Do Visit" -->
+        <span style="margin-right: 8px;">Do Visit</span>
+        <!-- GitLab logo -->
+        <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab Logo" style="width: 24px; height: 24px;">
+    </a>
+</div>
+
 <hr>
+
 
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
 
