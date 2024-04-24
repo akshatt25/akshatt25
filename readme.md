@@ -57,8 +57,7 @@
 </table>
   
 <h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
-
-<div align=center>
+<!--<div align=center>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=akshatt25&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=akshatt25&no-frame=false&no-bg=false&margin-w=4&row=1" />
