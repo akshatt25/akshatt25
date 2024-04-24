@@ -12,7 +12,7 @@
 
 
 
-[![GitLab](https://img.shields.io/badge/More%20Projects-FFffff?style=flat&logo=gitlab)](https://github.com/AndrewSavetchuk)
+[![GitLab](https://img.shields.io/badge/More%20Projects-FFffff?style=flat&logo=gitlab)](https://gitlab.com/akshatt25g)
 
 <hr>
 
