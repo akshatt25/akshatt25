@@ -14,7 +14,10 @@
 <hr>
 
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
-
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
 <table width="100%" >
   <tr>
     <td width="50%"  border: none;>
