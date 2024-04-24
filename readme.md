@@ -20,7 +20,7 @@
 
 <hr>
 
-## Skills
+<h2 align="center">Skills</h2>
 
 #### Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/AndrewSavetchuk)
