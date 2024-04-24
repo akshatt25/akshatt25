@@ -35,10 +35,7 @@
           </picture>
         </a>
     </td>
-  </tr>
-   </tr>
-  <tr>
-    <td width="30%" >
+     <td width="30%" >
         <a href="https://github.com/akshatt25">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&theme=radical&langs_count=10" />
@@ -47,6 +44,10 @@
           </picture>
         </a>
     </td>
+  </tr>
+   </tr>
+  <tr>
+   
    
   </tr>
 </table>
