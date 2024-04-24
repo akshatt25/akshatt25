@@ -1,7 +1,8 @@
 
 # Hello, I'm Akshat Gupta
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<!-- Container with flexbox to align two elements -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
     <!-- Left-aligned content -->
     <div style="padding: 8px;">
         <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
