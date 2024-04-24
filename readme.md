@@ -14,7 +14,7 @@
 
 <hr>
 <a href="https://gitlab.com/akshatt25g" target="_blank">
-    <img src="https://img.shields.io/badge/More%20Projects-FFffff?style=social&logo=gitlab" alt="GitLab" style="width: 170px; height: 30px;">
+    <img src="https://img.shields.io/badge/More%20Projects-FFffff?style=social&logo=gitlab" alt="GitLab" style="width: 170px; height: 32px;">
 </>
 
 
@@ -23,18 +23,17 @@
 <h2 align="center">Skills</h2>
 
 #### Languages
-[![Java](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)]
-[![Dart](https://img.shields.io/badge/Dart-ffffff?style=flat&logo=dart&logoColor=%230D9ECC
-)]
-[![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)]
-[![HTML&CSS](https://img.shields.io/badge/HTML&CSS-F0DB4F?style=for-the-badge&logo=&logoColor=323330)]
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-
-#### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/AndrewSavetchuk)
+#### Mobile App Dev
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=darttt&logoColor=white)
 
 #### Front-End Frameworks
 [![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=white)](https://github.com/AndrewSavetchuk)
