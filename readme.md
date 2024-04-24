@@ -13,7 +13,7 @@
     </div>
 
    
-<div>
+<div widht=100%>
   <a href="https://gitlab.com" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center;">
       
    <span style="margin-right: 8px;">More Projects Here</span>
