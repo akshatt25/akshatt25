@@ -71,7 +71,7 @@
   </picture>
 </div>-->
 
-<h2 align="center">𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h2>
+<!--<h2 align="center">𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h2>
 
 <div align="center">
   <picture>
