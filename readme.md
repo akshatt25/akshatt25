@@ -23,9 +23,14 @@
 <h2 align="center">Skills</h2>
 
 #### Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/AndrewSavetchuk)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Java](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)]
+[![Dart](https://img.shields.io/badge/Dart-ffffff?style=flat&logo=dart&logoColor=%230D9ECC
+)]
+[![Python](https://img.shields.io/badge/Python-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)]
+[![HTML&CSS](https://img.shields.io/badge/HTML&CSS-F0DB4F?style=for-the-badge&logo=&logoColor=323330)]
+
+
 
 #### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AndrewSavetchuk)
