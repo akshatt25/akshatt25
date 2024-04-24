@@ -36,12 +36,7 @@
         </a>
     </td>
   </tr>
-</table>
-
-<h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
-
-<table width="100%" align="center">
-  </tr>
+   </tr>
   <tr>
     <td width="40%"  align="center">
         <a href="https://github.com/akshatt25">
@@ -55,7 +50,13 @@
    
   </tr>
 </table>
-  
+
+<!--<h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
+
+<table width="100%" align="center">
+ 
+</table>
+-->  
 <!--<h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
 <div align=center>
   <picture>
