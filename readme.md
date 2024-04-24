@@ -11,8 +11,8 @@
  <img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25" />
 
 
-<p align="left"> <a href="https://twitter.com/samiksh2431" target="blank"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab Logo" alt="GitLab" /></a> </p>
 
+[![GitLab]([https://img.shields.io/badge/Laravel-FF291A?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/More%20Projects-FFffff?style=flat&logo=gitlab))](https://github.com/AndrewSavetchuk)
 
 <hr>
 
