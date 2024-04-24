@@ -15,7 +15,7 @@
 
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
 
-<table width="90%">
+<table width="90%" style="table-layout: fixed; border-collapse: collapse;>
   <tr>
     <td width="30%" height ="100%">
         <a href="https://github.com/akshatt25">
