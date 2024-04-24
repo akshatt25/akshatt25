@@ -32,7 +32,7 @@
 
 #### Mobile App Dev
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-%230175C2.svg?style=for-the-badge&logo=darttt&logoColor=white)
 
 #### Back-End & Databases
