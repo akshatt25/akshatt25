@@ -14,12 +14,7 @@
 
    
 
-<div style="display: flex; align-items: center;">
-  <a href="https://gitlab.com" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center;">
-  
-  <span style="margin-right: 8px;">Do Visit</span><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab Logo" style="width: 24px; height: 24px;">
-    </a>
-</div>
+
 
 
 <hr>
