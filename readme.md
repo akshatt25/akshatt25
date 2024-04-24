@@ -15,9 +15,9 @@
 
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
 
-<table width="90%" style="table-layout: fixed; border-collapse: collapse;>
+<table width="100%" style="table-layout: fixed; border-collapse: collapse;>
   <tr>
-    <td width="30%" height ="100%">
+    <td width="50%"  border: none;>
         <a href="https://github.com/akshatt25">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=akshatt25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
@@ -26,7 +26,7 @@
           </picture>
         </a>
     </td>
-    <td width="30%">
+    <td width="50%" border: none;>
         <a href="https://github.com/akshatt25">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=akshatt25&theme=radical" />
