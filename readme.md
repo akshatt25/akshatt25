@@ -33,7 +33,7 @@
           </picture>
         </a>
     </td>
-    <td width="45%" rowspan="2">
+    <td width="45%" height="100%" rowspan="2">
         <a href="https://github.com/akshatt25">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&theme=radical&langs_count=10" />
