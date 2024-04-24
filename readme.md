@@ -10,7 +10,7 @@
 - Check Out The Porject that got me selected at SIH'23 - [Ai-Terrain Recoginition App](https://github.com/akshatt25/terrain_recognition).
 - Reach me via [Email](mailto:akshatt25g@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akshatt25/).
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25" /> </p>
 <hr>
 
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
