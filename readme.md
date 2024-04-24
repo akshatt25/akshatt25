@@ -2,7 +2,8 @@
 # Hello, I'm Akshat Gupta
 
 <!-- Container with flexbox to align two elements -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<!-- Container with flexbox to align two elements -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; white-space: nowrap;">
     <!-- Left-aligned content -->
     <div style="padding: 8px;">
         <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
@@ -12,6 +13,7 @@
         <img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25" />
     </div>
 </div>
+
 
 
 - Pursuing Bachelor's degree in Computer Science at [LNCT]([https://cemkolaghat.in/](https://lnct.ac.in/)).
