@@ -14,7 +14,7 @@
 
 <hr>
 <a href="https://gitlab.com/akshatt25g" target="_blank">
-    <img src="https://img.shields.io/badge/More%20Projects-FFffff?style=social&logo=gitlab" alt="GitLab" style="width: 170px; height: 32px;">
+    <img src="https://img.shields.io/badge/More%20Projects-FFffff?style=social&logo=gitlab" alt="GitLab" style="width: 125px; height: 25px;">
 </>
 
 
@@ -32,19 +32,15 @@
 
 #### Mobile App Dev
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android SDK](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![XML](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=darttt&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%230175C2.svg?style=for-the-badge&logo=darttt&logoColor=white)
 
-#### Front-End Frameworks
-[![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Next.js](https://img.shields.io/badge/next.js-282c34?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/AndrewSavetchuk)
-[![Nuxt.js](https://img.shields.io/badge/nuxt.js-35495E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://github.com/AndrewSavetchuk)
-
-#### Back-End Frameworks
-[![Laravel](https://img.shields.io/badge/Laravel-FF291A?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/AndrewSavetchuk)
-
+#### Back-End & Databases
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+	![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 #### Cloud Services
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/AndrewSavetchuk)
 [![Firebase](https://img.shields.io/badge/firebase-F68410?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/AndrewSavetchuk)
