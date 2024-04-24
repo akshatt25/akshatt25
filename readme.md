@@ -1,7 +1,7 @@
 
 # Hello, I'm Akshat Gupta
 
-<h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
+<h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3> <img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25" />
 
 - Pursuing Bachelor's degree in Computer Science at [LNCT]([https://cemkolaghat.in/](https://lnct.ac.in/)).
 - Proficient in Android & Backend Development.
@@ -9,7 +9,7 @@
 - Check Out The Porject that got me selected at SIH'23 - [Ai-Terrain Recoginition App](https://github.com/akshatt25/terrain_recognition).
 - Reach me via [Email](mailto:akshatt25g@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akshatt25/).
  <div style="display: flex; justify-content: flex-end; padding: 8px;">
-        <img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25" />
+       
     </div>
 
    
