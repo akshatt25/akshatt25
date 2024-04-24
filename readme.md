@@ -17,7 +17,7 @@
 
 <table width="90%">
   <tr>
-    <td width="30%">
+    <td width="30%" height ="100%">
         <a href="https://github.com/akshatt25">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=akshatt25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
