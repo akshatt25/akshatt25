@@ -1,16 +1,15 @@
-<img align="right" width="30%" src="Assets/Programming.gif">
 
 # Hello, I'm Akshat Gupta
 
-<table style="border-collapse: collapse; width: 100%; border: none;" >
-  <tr>
-    <td >
-        <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
-    </td>
-    <td>
-        <img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25" />
-    </td>
-  </tr>
+<table style="border-collapse: collapse; width: 100%; border: none;">
+    <tr>
+        <td style="border: none; padding: 8px;">
+            <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
+        </td>
+        <td style="border: none; padding: 8px;">
+            <img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25" />
+        </td>
+    </tr>
 </table>
 
 
