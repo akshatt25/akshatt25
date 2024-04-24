@@ -56,14 +56,14 @@
   </tr>
 </table>
   
-<h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
-<!--<div align=center>
+<!--<h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
+<div align=center>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=akshatt25&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=akshatt25&no-frame=false&no-bg=false&margin-w=4&row=1" />
     <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=akshatt25&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
   </picture>
-</div>
+</div>-->
 
 <h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 
@@ -77,7 +77,7 @@
 
 <hr>
 
-<div align="center">
+<!--<div align="center">
   <img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/>
   <img height="20" src="https://visitcount.itsvg.in/api?id=akshatt25&icon=0&color=0" alt=""/>
   <picture>
@@ -85,4 +85,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/akshatt25/akshatt25/blob/output/github-snake.svg" />
     <img alt="github-snake" src="https://github.com/akshatt25/akshatt25/blob/output/github-snake-dark.svg" style="width: 100%; max-width: 400px; margin: 0 auto;" />
   </picture>
-</div>
+</div>-->
