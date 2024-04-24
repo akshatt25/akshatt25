@@ -1,25 +1,14 @@
 
 # Hello, I'm Akshat Gupta
 
-<!-- Container with flexbox to align two elements -->
-<!-- Container with flexbox to align two elements -->
-<div style="display: flex; justify-content: space-between; align-items: right; width: 100%; white-space: nowrap;">
-    <!-- Left-aligned content -->
-    <div style="padding: 8px;">
-        <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
-    </div>
-    <!-- Right-aligned content -->
-   
-</div>
-
-
+<h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
 
 - Pursuing Bachelor's degree in Computer Science at [LNCT]([https://cemkolaghat.in/](https://lnct.ac.in/)).
 - Proficient in Android & Backend Development.
 - My Recent Work - [The Notary App](https://play.google.com/store/apps/details?id=com.consumer.thenotaryapp&hl=en&gl=US).
 - Check Out The Porject that got me selected at SIH'23 - [Ai-Terrain Recoginition App](https://github.com/akshatt25/terrain_recognition).
 - Reach me via [Email](mailto:akshatt25g@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akshatt25/).
- <div style="padding: 8px;">
+ <div style="display: flex; justify-content: flex-end; padding: 8px;">
         <img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25" />
     </div>
 <hr>
