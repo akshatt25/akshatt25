@@ -2,12 +2,13 @@
 
 # Hi👋, I'm Akshat Gupta
 
-<h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝒂𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
+<h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
 
-- 🏫 Pursuing Bachelor's degree in Computer Science at [LNCT]([https://cemkolaghat.in/](https://lnct.ac.in/)).
-- 📚 Proficient in Java, Flutter, JavaScript, Node & Express.js, MongoDB & SQL.
-- My Recent Work - [The Notary App](https://play.google.com/store/apps/details?id=com.consumer.thenotaryapp&hl=en&gl=US)
-- 📧 Reach me via [Email](mailto:akshatt25g@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akshatt25/).
+- Pursuing Bachelor's degree in Computer Science at [LNCT]([https://cemkolaghat.in/](https://lnct.ac.in/)).
+- Proficient in Android & Backend Development.
+- My Recent Work - [The Notary App](https://play.google.com/store/apps/details?id=com.consumer.thenotaryapp&hl=en&gl=US).
+- Check Out The Porject that got me selected at SIH'23 - [Ai-Terrain Recoginition App](https://github.com/akshatt25/terrain_recognition).
+- Reach me via [Email](mailto:akshatt25g@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akshatt25/).
 
 
 <hr>
@@ -51,15 +52,7 @@
           </picture>
         </a>
     </td>
-    <td width="60%"  align="center">
-        <a href="https://github.com/akshatt25">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=akshatt25&layout=compact&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=akshatt25&layout=compact&langs_count=10" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=akshatt25&layout=compact&theme=radical&langs_count=10" alt="Wakatime Stats" />
-          </picture>
-        </a>
-      </td>
+   
   </tr>
 </table>
   
