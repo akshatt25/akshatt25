@@ -16,16 +16,17 @@
 <hr>
 
 <!-- Container with link -->
+ <a href="https://gitlab.com" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center;">
 <div style="display: flex; align-items: center;">
     <!-- Anchor element with a link to the specified URL -->
-    <a href="https://gitlab.com" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center;">
+   
         <!-- Text "Do Visit" -->
         <span ">Do Visit</span>
         <!-- GitLab logo -->
         <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" style="width: 50px; height: 50px;">
-    </a>
+  
 </div>
-
+  </a>
 
 <hr>
 
