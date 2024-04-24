@@ -1,65 +1,98 @@
-# Hi there!
+<img align="right" width="30%" src="Assets/Programming.gif">
 
-I'm a full stack software engineer based in Canada who is passionate about everything related to technology. <br>
-In my free time, I run [a blog](https://blog.savetchuk.com/) where I write about interesting things that I learn along the way. <br>
-When I need to unwind, I usually spend time outside or play video games.
+# Hi👋, I'm [Ranit Manik](https://ranitmanik.github.io/Portfolio-1.0/)
 
-## About Me
-- Location: Canada 🇨🇦
-- Experience: 7+ years 🧑🏻‍💻
-- Education: BSc in Computer Science, GradCert in Mobile and Web Development
+<h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒓 𝒂𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
 
-## Skills
+- 🏫 Currently pursuing a Bachelor's degree in Computer Science at [CEMK](https://cemkolaghat.in/).
+- 💻 Open Source Contributor with a focus on [GitHub](https://github.com/RanitManik).
+- 📚 Proficient in HTML, CSS, JavaScript, Python, Java, C, and Figma.
+- 🌐 Visit my [Portfolio](https://github.com/RanitManik/Portfolio-1.0) to explore my projects and achievements.
+- 📝 Writing technical blogs on [Hashnode](https://hashnode.com/@ranitmanik).
+- 📧 Reach me via [Email](mailto:ranitmanik.dev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ranit-manik/).
+- 📍 Currently based in Mecheda, West Bengal, India.
 
-#### Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/AndrewSavetchuk)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://github.com/AndrewSavetchuk)
+<hr>
 
-#### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/AndrewSavetchuk)
+<h2 align="center">📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀 📊</h2>
 
-#### Front-End Frameworks
-[![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Next.js](https://img.shields.io/badge/next.js-282c34?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/AndrewSavetchuk)
-[![Nuxt.js](https://img.shields.io/badge/nuxt.js-35495E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://github.com/AndrewSavetchuk)
+<table width="100%">
+  <tr>
+    <td width="50%">
+        <a href="https://github.com/RanitManik">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RanitManik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+          </picture>
+        </a>
+    </td>
+    <td width="50%">
+        <a href="https://github.com/RanitManik">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik" />
+            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=RanitManik&theme=radical" alt="Streak Stats" />
+          </picture>
+        </a>
+    </td>
+  </tr>
+</table>
 
-#### Back-End Frameworks
-[![Laravel](https://img.shields.io/badge/Laravel-FF291A?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/AndrewSavetchuk)
+<h2 align="center">🧑‍💻 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀 🧑‍💻</h2>
 
-#### Cloud Services
-[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Firebase](https://img.shields.io/badge/firebase-F68410?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/AndrewSavetchuk)
+<table width="100%" align="center">
+  </tr>
+  <tr>
+    <td width="40%"  align="center">
+        <a href="https://github.com/RanitManik">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&langs_count=10" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanitManik&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+          </picture>
+        </a>
+    </td>
+    <td width="60%"  align="center">
+        <a href="https://github.com/RanitManik">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&langs_count=10" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RanitManik&layout=compact&theme=radical&langs_count=10" alt="Wakatime Stats" />
+          </picture>
+        </a>
+      </td>
+  </tr>
+</table>
+  
+<h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
 
-#### Tools
-[![Docker](https://img.shields.io/badge/Docker-0091E2?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/AndrewSavetchuk)
+<div align=center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=RanitManik&no-frame=false&no-bg=false&margin-w=4&row=1" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=RanitManik&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  </picture>
+</div>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">💻 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 💻</h2>
 
-## Contributions
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSavetchuk" alt="Contributions Info" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Assets/skills-svg-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="Assets/skills-svg-light.svg" />
+    <img width=70% src="Assets/skills-svg-dark.svg">
+  </picture>
+</div>
 
-## Latest Blog Posts
-* [Overview of MVC Architectural Pattern](https://blog.savetchuk.com/overview-of-mvc-architectural-pattern)
-* [The Difference Between Types (Type Aliases) And Interfaces in TypeScript](https://blog.savetchuk.com/the-difference-between-types-type-aliases-and-interfaces-in-typescript)
-* [Advanced Overview of String Conversion  in JavaScript](https://blog.savetchuk.com/advanced-overview-of-string-conversion-in-javascript)
-* [The Difference Between Docker Images and  Docker Containers](https://blog.savetchuk.com/the-difference-between-docker-images-and-docker-containers)
-* [How to Add TypeScript to Existing Next.js Project](https://blog.savetchuk.com/how-to-add-typescript-to-existing-nextjs-project)
-* [How to Find Large Files  in an AWS S3 Bucket Using Command Line Interface](https://blog.savetchuk.com/how-to-find-large-files-in-an-aws-s3-bucket-using-command-line-interface)
+<hr>
 
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewsavetchuk)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AndrewSavetchuk)
+<div align="center">
+  <img height="20" padding-left=20 src="https://wakatime.com/badge/user/6c66cc47-ce26-48cc-a555-22494865c546.svg" alt=""/>
+  <img height="20" src="https://visitcount.itsvg.in/api?id=RanitManik&icon=0&color=0" alt=""/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RanitManik/ranitmanik/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/RanitManik/ranitmanik/blob/output/github-snake-dark.svg" style="width: 100%; max-width: 400px; margin: 0 auto;" />
+  </picture>
+</div>
