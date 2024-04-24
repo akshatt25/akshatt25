@@ -12,7 +12,7 @@
 
 
 
-[![GitLab]([https://img.shields.io/badge/Laravel-FF291A?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/More%20Projects-FFffff?style=flat&logo=gitlab))](https://github.com/AndrewSavetchuk)
+[![GitLab](https://img.shields.io/badge/More%20Projects-FFffff?style=flat&logo=gitlab)](https://github.com/AndrewSavetchuk)
 
 <hr>
 
