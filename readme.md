@@ -15,19 +15,6 @@
 
 <hr>
 
-<!-- Container with link -->
- <a href="https://gitlab.com" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center;">
-<div style="display: flex; align-items: center;">
-<!-- Anchor element with a link to the specified URL -->
-   <!-- Text "Do Visit" -->
-       <span ">Do Visit</span>
-        <!-- GitLab logo -->
-    <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab" style="width: 50px; height: 50px;">
-  
-</div>
-  </a>
-
-<hr>
 
 
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
