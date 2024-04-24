@@ -17,7 +17,39 @@
     <img src="https://img.shields.io/badge/More%20Projects-FFffff?style=social&logo=gitlab" alt="GitLab" style="width: 150px; height: 28px;">
 </>
 
+<h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
 
+<table width="100%" style=border: none;>
+  <tr>
+    <td width="50%"  border: none;>
+        <a href="https://github.com/akshatt25">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=akshatt25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=akshatt25&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshatt25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+          </picture>
+        </a>
+    </td>
+    <td width="50%" border: none;>
+        <a href="https://github.com/akshatt25">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=akshatt25&theme=radical" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=akshatt25" />
+            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=akshatt25&theme=radical" alt="Streak Stats" />
+          </picture>
+        </a>
+    </td>
+    <!--<td width="30%">
+        <a href="https://github.com/akshatt25">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&theme=radical&langs_count=10" />
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&langs_count=10" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+          </picture>
+        </a>
+    </td>-->
+  </tr>
+</table>
 <hr>
 
 <h2 align="center">Skills</h2>
@@ -54,39 +86,7 @@
 
 
 
-<h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
 
-<table width="100%" style=border: none;>
-  <tr>
-    <td width="50%"  border: none;>
-        <a href="https://github.com/akshatt25">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=akshatt25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=akshatt25&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-            <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshatt25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-          </picture>
-        </a>
-    </td>
-    <td width="50%" border: none;>
-        <a href="https://github.com/akshatt25">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=akshatt25&theme=radical" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=akshatt25" />
-            <img align="center" src="https://github-readme-streak-stats-seven-psi.vercel.app?user=akshatt25&theme=radical" alt="Streak Stats" />
-          </picture>
-        </a>
-    </td>
-    <!--<td width="30%">
-        <a href="https://github.com/akshatt25">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&langs_count=10" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
-          </picture>
-        </a>
-    </td>-->
-  </tr>
-</table>
 
 
 
