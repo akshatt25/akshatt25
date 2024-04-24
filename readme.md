@@ -8,7 +8,7 @@
 - Proficient in Android & Backend Development.
 - 👨‍💻 My Recent Work - [The Notary App](https://play.google.com/store/apps/details?id=com.consumer.thenotaryapp&hl=en&gl=US).
 - 🏆 Check Out The Project that got selected at SIH'23 - [Ai-Terrain Recoginition App](https://github.com/akshatt25/terrain_recognition).
-- Reach me via [Email](mailto:akshatt25g@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akshatt25/).
+- Reach me via [Email](akshatt25g@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akshatt25/).
 
 
 
