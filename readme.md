@@ -17,7 +17,7 @@
 
 <table width="90%">
   <tr>
-    <td width="45%">
+    <td width="45%" rowspan="2">
         <a href="https://github.com/akshatt25">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=akshatt25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
@@ -25,8 +25,6 @@
             <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akshatt25&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
           </picture>
         </a>
-    </td>
-    <td width="45%">
         <a href="https://github.com/akshatt25">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-seven-psi.vercel.app?user=akshatt25&theme=radical" />
@@ -35,9 +33,7 @@
           </picture>
         </a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">
+    <td width="45%" rowspan="2">
         <a href="https://github.com/akshatt25">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&theme=radical&langs_count=10" />
@@ -48,6 +44,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <!--<h2 align="center">𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗦𝘁𝗮𝘁𝘀</h2>
