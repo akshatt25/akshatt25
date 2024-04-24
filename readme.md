@@ -1,5 +1,13 @@
 <img align="right" width="30%" src="Assets/Programming.gif">
-
+<style>
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+</style>
 # Hello, I'm Akshat Gupta
 
 <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
@@ -14,10 +22,7 @@
 <hr>
 
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
-table, th, td {
-  border: 1px solid white;
-  border-collapse: collapse;
-}
+
 <table width="100%" >
   <tr>
     <td width="50%"  border: none;>
