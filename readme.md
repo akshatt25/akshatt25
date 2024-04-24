@@ -13,7 +13,7 @@
 
 
 <a href="https://gitlab.com/akshatt25g" target="_blank">
-    <img src="https://img.shields.io/badge/More%20Projects-FFffff?style=flat&logo=gitlab" alt="GitLab" style="width: 32px; height: 32px;">
+    <img src="https://img.shields.io/badge/More%20Projects-FFffff?style=flat&logo=gitlab" alt="GitLab" style="width: 100px; height: 50px;">
 </a>
 
 
