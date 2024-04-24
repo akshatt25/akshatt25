@@ -12,7 +12,8 @@
 
 
 
-[![GitLab](https://img.shields.io/badge/More%20Projects-FFffff?style=flat&logo=gitlab)](https://gitlab.com/akshatt25g)
+[<img src="https://img.shields.io/badge/More%20Projects-FFffff?style=flat&logo=gitlab" alt="GitLab" style="width: 32px; height: 32px;">](https://gitlab.com/akshatt25g)
+
 
 <hr>
 
