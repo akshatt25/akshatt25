@@ -2,7 +2,7 @@
 
 # Hello, I'm Akshat Gupta
 
-<table style = "border: 0px" >
+<table style="border-collapse: collapse; width: 100%; border: none;" >
   <tr>
     <td >
         <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
