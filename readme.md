@@ -13,15 +13,14 @@
     </div>
 
     <!-- Container with link -->
-<div style="display: flex; align-items: center;">
-    <!-- Anchor element with a link to the specified URL -->
-    <a href="https://gitlab.com" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center;">
+  <!-- Anchor element with a link to the specified URL -->
+  <a href="https://gitlab.com" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center;">
         <!-- Text "Do Visit" -->
         <span style="margin-right: 8px;">Do Visit</span>
         <!-- GitLab logo -->
         <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab Logo" style="width: 24px; height: 24px;">
     </a>
-</div>
+
 
 <hr>
 
