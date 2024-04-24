@@ -11,7 +11,7 @@
  <img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25" />
 
 
-[Do Visit <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab Logo" width="24" height="24">](https://gitlab.com)
+[Do Visit <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab Logo" width="40" height="40">](https://gitlab.com)
 
 
 
