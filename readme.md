@@ -2,7 +2,8 @@
 # Hello, I'm Akshat Gupta
 
 <h3>𝑨 𝒑𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒇𝒓𝒐𝒎 𝑰𝒏𝒅𝒊𝒂</h3>
-<img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25" />
+<img src="https://komarev.com/ghpvc/?username=akshatt25&label=Profile%20views&color=0e75b6&style=flat" alt="akshatt25"/>
+
 - Pursuing Bachelor's degree in Computer Science at [LNCT]([https://cemkolaghat.in/](https://lnct.ac.in/)).
 - Proficient in Android & Backend Development.
 - My Recent Work - [The Notary App](https://play.google.com/store/apps/details?id=com.consumer.thenotaryapp&hl=en&gl=US).
