@@ -13,14 +13,14 @@
     </div>
 
    
-
+<div>
   <a href="https://gitlab.com" target="_blank" style="text-decoration: none; color: black; display: flex; align-items: center;">
       
-   <span style="margin-right: 8px;">Do Visit</span>
+   <span style="margin-right: 8px;">More Projects Here</span>
      
    <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab Logo" style="width: 50px; height: 50px;">
     </a>
-
+</div>
 
 <hr>
 
