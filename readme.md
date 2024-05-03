@@ -21,8 +21,7 @@
 
 
 
-
- <img src="https://github-readme-stats.vercel.app/api?username=akshatt25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />                  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=tokyonight&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=akshatt25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />                                                   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=tokyonight&hide_border=false" />
              
 
 
