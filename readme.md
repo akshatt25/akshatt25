@@ -28,7 +28,7 @@
     </td>
     <td width="50%" style="text-align: center; vertical-align: middle;">
       <a href="https://github.com/akshatt25">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=tokyonight&hide_border=true />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=tokyonight&hide_border=false />
       </a>
     </td>
   </tr>
