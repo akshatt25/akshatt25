@@ -25,12 +25,12 @@
   <tr>
     <td width="50%" style="text-align: center; vertical-align: middle;">
       <a href="https://github.com/akshatt25">
-        <img src="https://github-readme-stats.vercel.app/api?username=akshatt25&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" style="display: block; margin: 0 auto;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=akshatt25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="display: block; margin: 0 auto;" />
       </a>
     </td>
     <td width="50%" style="text-align: center; vertical-align: middle;">
       <a href="https://github.com/akshatt25">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=tokyonight&hide_border=false" />
       </a>
     </td>
   </tr>
