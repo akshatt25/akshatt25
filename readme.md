@@ -20,13 +20,13 @@
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
 
 <table width="100%" >
-  <tr>
+  <tr style="text-align: center; vertical-align: middle;">
     <td width="50%" >
 
 ![](https://github-readme-stats.vercel.app/api?username=akshatt25&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
 </a>
     </td>
-    <td width="50%" style="text-align: center; vertical-align: middle;">
+    <td width="50%" >
    
   ![](https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=dark&hide_border=false)
 </a>
