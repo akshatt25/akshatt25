@@ -19,20 +19,16 @@
 
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" style="text-align: center; vertical-align: middle;">
-      <a href="https://github.com/akshatt25">
+
+ <a href="https://github.com/akshatt25">
         <img src="https://github-readme-stats.vercel.app/api?username=akshatt25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
       </a>
-    </td>
-    <td width="50%" style="text-align: center; vertical-align: middle;">
-      <a href="https://github.com/akshatt25">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=tokyonight&hide_border=false" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+
+ <a href="https://github.com/akshatt25">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=tokyonight&hide_border=false" />
+</a>
+
 
 <hr>
 
