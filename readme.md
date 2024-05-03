@@ -19,29 +19,21 @@
 
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
 
-<table width="100%" >
-  <tr style="text-align: center; vertical-align: middle;">
-    <td width="50%" >
-
-![](https://github-readme-stats.vercel.app/api?username=akshatt25&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
-</a>
+<table width="100%">
+  <tr>
+    <td width="50%" style="text-align: center; vertical-align: middle;">
+      <a href="https://github.com/akshatt25">
+        <img src="https://github-readme-stats.vercel.app/api?username=akshatt25&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </a>
     </td>
-    <td width="50%" >
-   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=dark&hide_border=false)
-</a>
+    <td width="50%" style="text-align: center; vertical-align: middle;">
+      <a href="https://github.com/akshatt25">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+      </a>
     </td>
-    <!--<td width="30%">
-        <a href="https://github.com/akshatt25">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&theme=radical&langs_count=10" />
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&langs_count=10" />
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatt25&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
-          </picture>
-        </a>
-    </td>-->
   </tr>
 </table>
+
 <hr>
 
 <h2 align="center">Skills</h2>
