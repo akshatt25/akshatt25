@@ -20,12 +20,12 @@
 <h2 align="center">𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀</h2>
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=akshatt25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 
-<table width="5%" ></table>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=akshatt25&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><table width="5%" ></table><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=tokyonight&hide_border=false" />
              
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=tokyonight&hide_border=false" />
+
 
 
 
