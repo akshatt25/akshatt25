@@ -22,12 +22,12 @@
 <table width="100%" style=border: none;>
   <tr>
     <td width="50%"  border: none;>
-        <a href="https://github.com/akshatt25">
-        ![](https://github-readme-stats.vercel.app/api?username=akshatt25&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+
+![](https://github-readme-stats.vercel.app/api?username=akshatt25&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 </a>
     </td>
     <td width="50%" border: none;>
-        <a href="https://github.com/akshatt25">
+   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=akshatt25&theme=dark&hide_border=false)
 </a>
     </td>
